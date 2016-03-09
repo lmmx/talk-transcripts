@@ -385,9 +385,12 @@ Engineers are confident with the build plan we have, we will clear the PromethIO
 
 Finally just to remind everyone about the *London Calling* conference in May. And with that I will attempt to stop, and see if I can get my face on the screen. So I think we're going to stop there, and I'm going to take some questions from our customers via our portal.
 
-… see also
+---
 
-* [http://www.bio-itworld.com/2015/11/19/oxford-nanopores-software-side.html](http://www.bio-itworld.com/2015/11/19/oxford-nanopores-software-side.html)
+## See also
 
-* [http://biorxiv.org/content/biorxiv/early/2016/02/03/038760.full.pdf](http://biorxiv.org/content/biorxiv/early/2016/02/03/038760.full.pdf)
+* [Oxford's "No thanks, I've already got one"](http://omicsomics.blogspot.co.uk/2016/03/oxfords-no-thanks-ive-already-got-one.html) by Keith Robison
 
+* [Oxford Nanopore's Software Side](http://www.bio-itworld.com/2015/11/19/oxford-nanopores-software-side.html) by Aaron Krol, 19th November 2015
+
+* Loose, Malla & Stout (2016) [Real time selective sequencing using nanopore technology](http://biorxiv.org/content/biorxiv/early/2016/02/03/038760.full.pdf)
