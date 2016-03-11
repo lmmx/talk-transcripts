@@ -389,6 +389,8 @@ Finally just to remind everyone about the *London Calling* conference in May. An
 
 ## See also
 
+* Brief [blog post](http://biochemistri.es/no-thanks-nanopore-transcript) with the talk and link to this transcript, outlining some highlights
+
 * [Oxford's "No thanks, I've already got one"](http://omicsomics.blogspot.co.uk/2016/03/oxfords-no-thanks-ive-already-got-one.html) by Keith Robison
   * [Reference on FNNs, RNNS, LSTM and BLSTM](http://cse.iitkgp.ac.in/~psraja/FNNs%20,RNNs%20,LSTM%20and%20BLSTM.pdf) Keith recommends
 
